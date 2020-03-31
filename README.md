@@ -1,69 +1,76 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+1. Everybody will be a collaborator on this project
 
-In the project directory, you can run:
+2. After you have accepted your invite clone the project and put into a new branch
 
-### `yarn start`
+3. You will be using npm start to view your project. Currently there is nothing up. 
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+4. View your Trello board for more instruction as to what you will be building : https://trello.com/b/pNa7ymZe/videogame-social-platform
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+5. There may still be missing components or pages that we will need to add in the future please add this to the Extra card in the Trello Board under Website Components so that it can be addressed.
 
-### `yarn test`
+6.We will be focused mostly on building pages and components. Components will be used and reausable on different pages. Make sure to check with whoever is working on the page where your component will be housed is okay with the component you are making. 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+7.Pair programming is encouraged. If you are working on something with someone make sure to reflect that in the trello board under your name.
 
-### `yarn build`
+8. There is indeed a playlist. Please add to it. 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Fill Out Product Vision Document as a Team:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+This is the template for the Product Vision Document that teams complete first and foremost. The PVD is crucial to the planning phase.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# ☝️ Proposal
 
-### `yarn eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- What problem does your app solve?
+    - 
+- Be as specific as possible; how does your app solve the problem?
+    - 
+- What is the mission statement?
+    - 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# 💡 Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- What features are required for your minimum viable product?
+    - 
+- What features may you wish to put in a future release?
+    - 
+- What do the top 3 similar apps do for their users?
+    - 
 
-## Learn More
+# 🛠 Frameworks - Libraries
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- What 3rd party frameworks/libraries are you considering using?
+    - 
+- Do the APIs you need require you to contact them to gain access?
+    - 
+- Are you required to pay to use said API(s)?
+    - 
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+# 🎯 Target Audience
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- Who is your target audience? Be specific.
+    - 
+- What feedback have you gotten from potential users?
+    - 
+- Have you validated this problem and your solution with a target audience? Describe how,
+    - 
 
-### Making a Progressive Web App
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+# 🔑 Prototype Key Feature(s)
 
-### Advanced Configuration
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# videogame-social-platform
+- How long do you think it will take to implement these features?
+    - 
+- Do you anticipate working on stretch functionality after completion of a Minimal Viable Product?
+    -
