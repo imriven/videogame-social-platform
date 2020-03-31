@@ -13,9 +13,9 @@
 
 7. Pair programming is encouraged. If you are working on something with someone make sure to reflect that in the trello board under your name.
 
-8. We should have a Project Manager who will manage this project and make sure things are getting done and will set up meetings etc.
+8. We should have a Project Manager who will manage this project and make sure things are getting done and will set up meetings etc. Meetings should be conducted daily this week.
 
-9.In my mind it doesn't seem like this needs to have a deadline. We can keep this as an ongoing projects. The project manager will make sure this project is still being worked on after the week off and still create weekly meetings.
+9. In my mind it doesn't seem like this needs to have a deadline. We can keep this as an ongoing project. The project manager will make sure this project is still being worked on after the week off and still create weekly meetings.
 
 10. There is indeed a playlist. Please add to it. 
 
