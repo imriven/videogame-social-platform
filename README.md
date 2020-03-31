@@ -9,11 +9,15 @@
 
 5. There may still be missing components or pages that we will need to add in the future please add this to the Extra card in the Trello Board under Website Components so that it can be addressed.
 
-6.We will be focused mostly on building pages and components. Components will be used and reausable on different pages. Make sure to check with whoever is working on the page where your component will be housed is okay with the component you are making. 
+6. We will be focused mostly on building pages and components. Components will be used and reausable on different pages. Make sure to check with whoever is working on the page where your component will be housed is okay with the component you are making. 
 
-7.Pair programming is encouraged. If you are working on something with someone make sure to reflect that in the trello board under your name.
+7. Pair programming is encouraged. If you are working on something with someone make sure to reflect that in the trello board under your name.
 
-8. There is indeed a playlist. Please add to it. 
+8. We should have a Project Manager who will manage this project and make sure things are getting done and will set up meetings etc.
+
+9.In my mind it doesn't seem like this needs to have a deadline. We can keep this as an ongoing projects. The project manager will make sure this project is still being worked on after the week off and still create weekly meetings.
+
+10. There is indeed a playlist. Please add to it. 
 
 Fill Out Product Vision Document as a Team:
 
