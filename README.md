@@ -19,6 +19,8 @@
 
 10. There is indeed a playlist. Please add to it. 
 
+11. We will mostly be using dummy text or placeholders until We can either find or build a dummy database we can use to access some of the information.
+
 Fill Out Product Vision Document as a Team:
 
 This is the template for the Product Vision Document that teams complete first and foremost. The PVD is crucial to the planning phase.
