@@ -5,15 +5,17 @@ const Navbar = () => {
 
     const outline = {
     border: "1px solid black",
-    padding: "5%"
+    padding: "3%",
+    width: "100%",
+    marginBottom: "2%"
     };
 
     return (
-    <div style={{outline}}>
-        <h3>This is the Navbar</h3>
-        <NavLink>filler</NavLink>
-        <NavLink>filler</NavLink>
-        <NavLink> filler</NavLink>
+    <div style={outline}>
+        <h3>Navbar Logo</h3>
+        <NavLink to="/">Home Page</NavLink>
+        <NavLink to="/profile">Profile Page</NavLink>
+        <NavLink to="/login">Login Page</NavLink>
     </div>
   );
 }

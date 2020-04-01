@@ -1,32 +1,32 @@
 import React from 'react';
 import './App.css';
-import {BrowserRouter as Router, Route} from 'react-router-dom';
-import Navbar from "./components/navbar"
+import {Route} from 'react-router-dom';
+import Navbar from "./components/navbar";
+import Home from "./components/home"
+import Profile from "./components/profile";
+import Login from "./components/login";
 
 const App = () => {
 
   
   return (
-  <Router>
-    <Navbar />      
+  <>
+    <Navbar />  
 
-
-
-     {/* Routes / Paths 
+     {/* Routes / Paths */}
      <Route exact path="/">
         <Home />
       </Route>
-      <Route path="/some component">
-       < some component />
+
+      <Route exact path="/profile">
+        <Profile/>
       </Route>
-      <Route path="/some other component">
-       <some other component/>
+
+      <Route exact path="/login">
+        <Login/>
       </Route>
-*/}
 
-
-
-  </Router>
+  </>
 );
 }
 
